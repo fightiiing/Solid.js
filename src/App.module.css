@@ -1,0 +1,13 @@
+.navigation {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.padding {
+  padding: 2rem;
+}
+
+.paddingLeft {
+  padding-left: 2rem;
+}
